@@ -20,9 +20,9 @@ const fave = 357;
 
 
 let student = {
-    fName = 'Paki',
-    lName = 'Koneska',
-    age = 24
+    fName : 'Paki',
+    lName : 'Koneska',
+    age : 24
 }
 
 let student2 = {
