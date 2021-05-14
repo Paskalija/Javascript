@@ -3,13 +3,13 @@ let p = 3
 let k = 5
 let j = 7 
 
-p =+ 4;
+p += 4;
 console.log('p =', p);
 
-k =- 2;
+k -= 2;
 console.log('k =', k);
 
-j =- 1;
+j -= 1;
 console.log('j =', j);
 
 
