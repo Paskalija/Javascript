@@ -1,45 +1,45 @@
 //PRVA VEZBA
 
-let person = {
+let covek = {
 firstname : 'Chloe',
 lastname : 'Jordan'
 };
 
-let person2 = {
+let covek2 = {
     firstname : 'Jane',
     lastname : 'Jordan'
 };
 
-let person3 = {
+let covek3 = {
     firstname : 'Joe',
     lastname : 'Jordan'
 };
 
-console.log(person);
-console.log(person2);
-console.log(person3);
+console.log(covek);
+console.log(covek2);
+console.log(covek3);
 
-console.log('FirstName', person.firstname );
-console.log('FirstName', person2.firstname);
-console.log('ForstName', person3.firstname);
+console.log('FirstName', covek.firstname );
+console.log('FirstName', covek2.firstname);
+console.log('ForstName', covek3.firstname);
 
 
-console.log('FirstName', person['firstname']);
-console.log('FirstName', person2['firstname']);
-console.log('ForstName', person3['firstname']);
+console.log('FirstName', covek['firstname']);
+console.log('FirstName', covek2['firstname']);
+console.log('ForstName', covek3['firstname']);
 
 
 
 //VTORA VEZBA
 
-let people = [person, person2, person3];
-people[0]['age']=24;
-people[1]['age']=23;
-people[2]['age']=33;
+let luge = [covek, covek2, covek3];
+luge[0]['age']=24;
+luge[1]['age']=23;
+luge[2]['age']=33;
 
-people[0].age =24;
-people[1].age =23;
-people[3].age =33;
+luge[0].age =24;
+luge[1].age =23;
+luge[3].age =33;
 
 
 //TRETA VEZBA
