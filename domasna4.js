@@ -39,7 +39,7 @@ luge[2]['age']=33;
 
 luge[0].age =24;
 luge[1].age =23;
-luge[3].age =33;
+luge[2].age =33;
 
 
 //TRETA VEZBA
