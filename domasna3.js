@@ -53,23 +53,23 @@ if (average < 80) {
 let den = 'Ponedelnik';
 
 switch (den) {
-    case 'Vtornik';
-        console.log('Raboten'):
+    case 'Vtornik':
+        console.log('Raboten');
         break;
-    case 'Sreda';
-        console.log('Raboten'):
+    case 'Sreda':
+        console.log('Raboten');
         break;
-    case 'Cetvrtok';
-        console.log('Raboten'):
+    case 'Cetvrtok':
+        console.log('Raboten');
         break;
-    case 'Petok';
-        console.log('Raboten'):
+    case 'Petok':
+        console.log('Raboten');
         break;
-    case 'Sabota';
-        console.log('Vikend'):
+    case 'Sabota':
+        console.log('Vikend');
         break;
-    case 'Nedela';
-        console.log('Vikend'):
+    case 'Nedela':
+        console.log('Vikend');
         break;
 }
 
@@ -77,40 +77,40 @@ switch (den) {
 
 let month = 'January';
 switch (month) {
-    case 'January';
-        console.log('Winter'):
+    case 'January':
+        console.log('Winter');
         break;
-    case 'February';
-        console.log('Winter'):
+    case 'February':
+        console.log('Winter');
         break;
-    case 'March';
-        console.log('Spring'):
+    case 'March':
+        console.log('Spring');
         break;
-    case 'April';
-        console.log('Spring'):
+    case 'April':
+        console.log('Spring');
         break;
-    case 'May';
-        console.log('Spring'):
+    case 'May':
+        console.log('Spring');
         break;
-    case 'June';
-        console.log('Summer'):
+    case 'June':
+        console.log('Summer');
         break;
-    case 'July';
-        console.log('Summer'):
+    case 'July':
+        console.log('Summer');
         break;
-    case 'August';
-        console.log('Summer'):
+    case 'August':
+        console.log('Summer');
         break;
-    case 'September';
-        console.log('Autumn'):
+    case 'September':
+        console.log('Autumn');
         break;
-    case 'October';
-        console.log('Autumn'):
+    case 'October':
+        console.log('Autumn');
         break;
-    case 'November';
-        console.log('Autumn'):
+    case 'November':
+        console.log('Autumn');
         break;
-    case 'December';
-        console.log('Winter'):
+    case 'December':
+        console.log('Winter');
         break;
 }
